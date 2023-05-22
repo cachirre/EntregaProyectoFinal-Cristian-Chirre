@@ -1,0 +1,87 @@
+{
+"car":[{
+        "Marca":"Peugeot",
+        "Modelo":"207",
+        "Km": "160.000",
+        "Año": "2015",
+        "Precio": "4500800"
+    },
+    {
+        "Marca": "Citroën",
+        "Modelo": "C3 Aircross",
+        "Km": "160.000",
+        "Año": "2016",
+        "Precio": "4989500"
+    },
+    {
+        "Marca": "Volkswagen",
+        "Modelo": "Amarok",
+        "Km": "160.000",
+        "Año": "2018",
+        "Precio": "6900550"
+    },
+    {
+        "Marca": "Toyota",
+        "Modelo": "Corolla",
+        "Km": "135.000",
+        "Año": "2019",
+        "Precio": "6700550"
+    },
+    {
+        "Marca": "Ford",
+        "Modelo": "Ka",
+        "Km": "160.000",
+        "Año": "2017",
+        "Precio": "3500800"
+    },
+    {
+        "Marca": "Nissan",
+        "Modelo": "Tiida",
+        "Km": "160.000",
+        "Año": "2016",
+        "Precio": "34455000"
+    },
+    {
+        "Marca": "Fiat",
+        "Modelo": "Toro",
+        "Km": "160.000",
+        "Año": "2019",
+        "Precio": "7800000"
+    },
+    {
+        "Marca": "Hyunday",
+        "Modelo": "Tucson",
+        "Km": "160.000",
+        "Año": "2019",
+        "Precio": "10800000"
+    },
+    {
+        "Marca": "Hyunday",
+        "Modelo": "Tucson",
+        "Km": "160.000",
+        "Año": "2013",
+        "Precio": "7800000"
+    },
+    {
+        "Marca": "Fiat",
+        "Modelo": "Uno",
+        "Km": "160.000",
+        "Año": "2017",
+        "Precio": "7800000"
+    },
+    {
+        "Marca": "Volkswagen",
+        "Modelo": "UP",
+        "Km": "160.000",
+        "Año": "2019",
+        "Precio": "4100000"
+    },
+    {
+        "Marca": "Volkswagen",
+        "Modelo": "Vento",
+        "Km": "160.000",
+        "Año": "2013",
+        "Precio": "7800000" 
+    }
+]
+}

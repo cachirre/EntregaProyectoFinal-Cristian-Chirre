@@ -1,0 +1,77 @@
+{
+    "producto": [
+      {
+        "Nombre": "Alarma",
+        "Tipo": "Volumetrica",
+        "Instalacion": "Sin cargo",
+        "Precio": "35800"
+      },
+      {
+        "Nombre": "Tornillos",
+        "Tipo": "Antirobo",
+        "Instalacion": "Sin Cargo",
+        "Precio": "10000"
+      },
+      {
+        "Nombre": "Antivandalico",
+        "Tipo": "Lamina",
+        "Instalacion": "Sin Cargo",
+        "Precio": "7000"
+      },
+      {
+        "Nombre": "Chapon Cubre Carter",
+        "Tipo": "Proteccion",
+        "Instalacion": "Sin Cargo",
+        "Precio": "40000"
+      },
+      {
+        "Nombre": "Chapon Cubre Carter",
+        "Tipo": "Proteccion",
+        "Instalacion": "Sin Cargo",
+        "Precio": "25000"
+      },
+      {
+        "Nombre": "Cubierta Pirelli",
+        "Tipo": "P7",
+        "Instalacion": "Sin Cargo",
+        "Precio": "67000"
+      },
+      {
+        "Nombre": "Cubierta Pirelli",
+        "Tipo": "P1",
+        "Instalacion": "Sin Cargo",
+        "Precio": "80000"
+      },
+      {
+        "Nombre": "Funda Asientos",
+        "Tipo": "Protección",
+        "Instalacion": "Sin Cargo",
+        "Precio": "14000"
+      },
+      {
+        "Nombre": "Embellecedor",
+        "Tipo": "Cromado",
+        "Instalacion": "Sin Cargo",
+        "Precio": "28000"
+      },
+      {
+        "Nombre": "Funda cobertora",
+        "Tipo": "Proteccion",
+        "Instalacion": "",
+        "Precio": "26000"
+      },
+      {
+        "Nombre": "Polarizado",
+        "Tipo": "Proteccion",
+        "Instalacion": "Sin Cargo",
+        "Precio": "36000"
+      },
+      {
+        "Nombre": "Sensor Estacionamiento",
+        "Tipo": "Sonoro",
+        "Instalacion": "Sin Cargo",
+        "Precio": "48000"
+      }
+    ]
+  }
+  
