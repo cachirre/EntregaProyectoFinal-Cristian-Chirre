@@ -1,9 +1,14 @@
 //CONTACTO
 
-$('#enviar').on('click', function(e) {
-    e.preventDefault();
-    // Aquí se podría agregar la lógica para enviar el formulario por correo electrónico o guardar la información en una base de datos, por ejemplo.
-    alert('¡Gracias por contactarnos!');
+let enviar = document.getElementById("enviar");
+enviar.addEventListener("click", alerta);
+
+function alerta() {
+  Swal.fire({
+    position: "top-end",
+    icon: "success",
+    title: "Consulta enviada",
+    showConfirmButton: false,
+    timer: 1500,
   });
-  
-  
+}
